@@ -1,0 +1,6 @@
+.ccarousel-item active{
+    height: 200px;
+}
+.carousel-item{
+    max-height: 450px;
+}
